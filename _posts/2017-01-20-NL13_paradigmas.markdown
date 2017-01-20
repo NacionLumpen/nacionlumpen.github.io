@@ -20,7 +20,7 @@ Contamos con
  - Álvaro Castellanos, [@alvarocaste](https://twitter.com/alvarocaste)
  - Anler Hernández, [@anler](https://twitter.com/anler)
  - Alejando Serrano, [@trupill](https://twitter.com/trupill)
- - Esteban Rivas, [@alvarocaste](https://twitter.com/stbnrivas)
+ - Esteban Rivas, [@stbnrivas](https://twitter.com/stbnrivas)
  - Sebastián Ortega, [@_sortega](https://twitter.com/_sortega)
 
 Dedicatoria para el filósofo de la ciencia Thomas Kuhn por introducir el
