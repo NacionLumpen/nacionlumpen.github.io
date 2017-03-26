@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "NL14: retro"
+date:   2017-03-26 10:00:00
+categories: podcast
+---
+
+Escuchar en Spreaker
+[Spreaker](https://www.spreaker.com/user/nacionlumpen/nl14-retro) o en
+[iTunes](https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2)
+
+No sabemos cómo pero hemos engañado a [Carlos Abril][carlos], mítico
+desarrollador de la época de oro de los 8 bits en España y posteriormente
+desarrollador de PC fútbol, para un nostálgico capítulo el que revivimos
+los 80 y hablamos sobre cómo era y es desarrollar en las plataformas de la
+época, qué mató a la floreciente industria española de la época y otros
+temas relacionados.
+
+[carlos]: https://twitter.com/carabr2
+
+Contamos con
+
+ - Álvaro Castellanos, [@alvarocaste](https://twitter.com/alvarocaste)
+ - Álvaro Polo, [@apolovald](https://twitter.com/apolovald)
+ - Carlos Abril, [@CarAbr2][carlos]
+ - Sebastián Ortega, [@_sortega](https://twitter.com/_sortega)
+
+Dedicatoria para [Paco Menéndez][paco] considerado uno de los mejores autores
+españoles de la historia y programador de _La Abadía del Crimen_, basado en el
+libro de Umberto Eco, _En el nombre de la rosa_ pero del que no pudieron
+obtener los derechos.
+
+[paco]: https://es.wikipedia.org/wiki/Paco_Men%C3%A9ndez
+
+Enlaces/referencias:
+
+- [La Abadía del Crimen](https://en.wikipedia.org/wiki/La_Abad%C3%ADa_del_Crimen)
+- [Programmers Development System][pds], dónde no harás TDD.
+- Álvaro Polo y la vida moderna: [Construyendo un grabador de ROMS con Arduino, algo de circuitería y un poco de Ruby](https://www.youtube.com/watch?v=gTQuynFg3t4)
+- Anuncios de la época: [1](https://www.youtube.com/watch?v=GYRCjWMDsDs) y
+  [2](https://www.youtube.com/watch?v=XmOv-LGBcxE).
+- [Estándar MSX](https://retroinformatica.wordpress.com/2014/01/26/el-estandar-msx/)
+- 'PC Fútbol', el juego que marcó una década, resucitó y volvió a morir:
+  [vidaextra](https://www.vidaextra.com/deportes/pc-futbol-el-juego-que-marco-una-decada-resucito-y-volvio-a-morir)
+
+[pds]: http://www.cpcwiki.eu/index.php/PDS_development_system
