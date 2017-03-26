@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NL12: Práctica deliberada"
+title:  "NL12: práctica deliberada"
 date:   2016-11-30 12:00:00
 categories: podcast
 ---
