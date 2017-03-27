@@ -5,7 +5,7 @@ date:   2017-01-20 12:00:00
 categories: podcast
 ---
 
-Escuchar en Spreaker
+Escuchar en
 [Spreaker](https://www.spreaker.com/user/nacionlumpen/nl13-paradigmas) o en
 [iTunes](https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2)
 
