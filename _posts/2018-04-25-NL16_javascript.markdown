@@ -29,7 +29,7 @@ Para hablar de ello hemos contado con la ayuda de parte de la comunidad
 
  - Sergio Arbeo, a.k.a. [@serabe](https://twitter.com/serabe), troll primigenio.
  - Luis de Dios [@luisddm_](https://twitter.com/luisddm_), high-functioning geek.
- - Salvador de la Fuente [@salvadelapuente](https://twitter.com/salvadelapuente), 
+ - Salvador de la Puente [@salvadelapuente](https://twitter.com/salvadelapuente), 
      *engañado previamente* al [¿eterno debate?][dinamico_estatico], el inimitable
      e inimitado.
 
