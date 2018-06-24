@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "NL17: drones"
+date:   2018-06-24 00:00:00
+categories: podcast
+---
+
+Escuchar en
+[Spreaker](https://www.spreaker.com/user/8241695/nl17-drones) o en
+[iTunes](https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2)
+
+Hoy vamos a hablar de drones. Pero no de cualquier forma porque contamos con
+un auténtico experto autodidacta en este apasionante hobby, [Jose Ignacio
+Honrado][joosee]. En este capítulo, Jose Ignacio ofrece una introducción al
+mundo de los drones que a él le hubiese gustado que un compañero de trabajo le
+hubiese dado cuando se interesó en ellos.
+
+[joosee]: https://twitter.com/Joosee
+
+Haciendo bulto y preguntas de _noob_, nuestros habituales:
+
+ - [Sebastián Ortega](https://twitter.com/_sortega), vuestro pesado de
+   siempre.
+ - [Álvaro Castellanos](https://github.com/alvarocaste), el que nunca sabe
+   nada.
+
+La dedicatoria del capítulo va para los hermanos Breguet y el profesor Richet
+por haber construido [el primer cuadricóptero de la historia][wiki].
+
+[wiki]: https://en.wikipedia.org/wiki/Breguet-Richet_Gyroplane
+
+Enlaces/referencias:
+
+ - Libro [_Building your own drones_](https://www.amazon.es/dp/B014G8VQ86)
+ - [Canal de Kit-Drone en Youtube](https://goo.gl/y7C61m)
+ - [Infografía Pixhawk](https://s31.postimg.cc/4zyfd3uxl/Pixhawk-_Inforgraphic2.jpg)
+ - [Learning Ardupilot](http://ardupilot.org/dev/docs/learning-the-ardupilot-codebase.html)
+ - Repo [ArduPilot](https://github.com/ArduPilot/ardupilot)
+ - Repo [DroneKit](https://github.com/dronekit/dronekit-python)
+ - Repo [node-ar-drone (Parrot)](https://github.com/felixge/node-ar-drone)
+ - Repo [javadrone (Parrot)](https://github.com/codeminders/javadrone)
+ - [OSD image](https://goo.gl/XjWeSo)
+ - [WebDJI](https://www.dji.com/es/products/consumer)
+ - [Web Parrot](https://www.parrot.com/es/drones)
+ - [Tienda componentes](https://hobbyking.com)
+ - [Tienda componentes (ES)](https://rc-innovations.es)
+ - [Mission Planner](http://ardupilot.org/planner/)
+ - [APM Planner](http://ardupilot.org/planner2/)
+ - [QGroundControl](http://qgroundcontrol.com)
+ - [Normas AESA](https://goo.gl/8dwxzs)
+
