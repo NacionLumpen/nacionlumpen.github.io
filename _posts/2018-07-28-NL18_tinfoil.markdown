@@ -1,0 +1,69 @@
+---
+layout: post
+title:  "NL18: Tinfoil"
+date:   2018-07-28 00:00:00
+categories: podcast
+---
+
+Escuchar en
+[Spreaker](https://www.spreaker.com/user/???/???) o en
+[iTunes](https://itunes.apple.com/es/podcast/nacion-lumpen/???)
+
+En esta ocasión queremos poner sobre las ondas, una serie de cuestiones relacionadas
+con cómo la tecnología está afectando a nuestra privacidad, libertad y cómo derechos
+que pensamos que son básicos no están dando el salto al mundo digital. Esperamos que
+después de escucharnos, deberías tener una idea de por dónde deberías empezar para ir
+reconquistando tu vida digital y cuál es el precio de ponerse el gorro de papel 
+de plata.
+
+Y para ello, hemos conseguido engañar:
+
+ - [Roboe](https://twitter.com/roboepi), una persona reservada. Desarrollador
+   y músico de carrera, es activo defensor de los derechos digitales y del
+   software y la cultura libre. Colecciona sombreros de papel de plata (_okno_).
+ - [Carlos Fenollosa](https://twitter.com/cfenollosa), ingeniero y emprendedor.
+   Ex-podcaster. Actualmente fundador de una startup que usa IA para predecir
+   las ventas y optimizar los precios de las empresas. Se llama _Optimus_
+   _Price_ (sí, el nombre está puesto a proposito).
+
+E intentando llevar esto a buen puerto tenemos:
+
+ - [Sebastián Ortega](https://twitter.com/_sortega), vuestro pesado de
+   siempre.
+ - [Álvaro Castellanos](https://github.com/alvarocaste), el que nunca sabe
+   nada.
+
+La dedicatoria del capítulo es doble:  
+
+A todos aquellos bibliotecarios que con su trabajo han defendido la libertad
+de información y la privacidad y el anonimato de los usuarios por tantos años.
+Las biblitecas fueron el Internet y los buscadores de la era predigital,
+espacios sagrados donde nadie se sentía observado ni juzgado. A ellos les
+debemos las alertas canario digitales ([_warrant canaries_][canary]).
+
+A todos aquellos alertadores ([_whistleblowers_][whistle]) que han levantado
+la voz sobre temas que corresponden al público, como la vigilancia masiva
+ilimitada, el uso indiscriminado e inescrupuloso de datos personales para fines
+privados o políticos.
+
+
+Enlaces/referencias:
+
+ - [The conspirationist theories on aluminum helmets are actually a conspiration](https://cfenollosa.com/funnypapers/index.html#AluminumHelmets)
+ - [Proxy browser](https://twitter.com/RoboePi/status/1017446830660046848)
+ - [Sal de la Máquina: Cómo superar la adicción a las nuevas tecnologías y recuperar la libertad perdida](https://openlibrary.org/works/OL17831026W/Sal_de_la_M%C3%A1quina)
+ - [Vigilancia líquida](https://www.planetadelibros.com/libro-vigilancia-liquida/112365)
+ - Mozilla: 13 puntos a destacar de la [RGPD/GDPR](https://blog.mozilla.org/internetcitizen/2018/05/23/gdpr-mozilla/) (inglés) 
+ - [EFF](https://www.eff.org/deeplinks/2018/06/gdpr-and-browser-fingerprinting-how-it-changes-game-sneakiest-web-trackers): cómo la RGPD cambia las reglas del juego a los rastreadores web (inglés) 
+ - [Tor Browser](http://torproject.org/projects/torbrowser.html.en)
+ - [Colección de extensiones para Firefox](https://addons.mozilla.org/es/firefox/collections/Roboe/protege-tu-privacidad/) para proteger la privacidad (la mayoría están para Chrome también)
+ - [Ublock Origin chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+ - [Ublock Origin firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+ - [Ublock Origin safari](https://github.com/el1t/uBlock-Safari) 
+ - [Fairphone](https://fairphone.com)
+ - [Fairphone Open](https://code.fairphone.com/projects/fp-osos/index.html#fairphone-open) y la filosofía de apertura
+ - [LineageOS](https://lineage.microg.org/) for microG, versión libre de Android con reimplementación de los servicios de Google para mantener compatibilidad
+ - [Cómo aprovecharse del sistema electoral de circunscripciones mediante la publicidad hipersesgada de Facebook](http://www.elmundo.es/cronica/2016/07/03/57779fc0ca4741301d8b4609.html)
+
+[canary]: https://en.wikipedia.org/wiki/Warrant_canary
+[whistle]: https://en.wikipedia.org/wiki/Whistleblower
