@@ -3,11 +3,9 @@ layout: post
 title:  "NL10: programación funcional"
 date:   2016-10-03 00:00:00 +0100
 categories: podcast
+spreaker: https://www.spreaker.com/user/nacionlumpen/nl10-programacion-funcional
+itunes: https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2
 ---
-
-Escuchar en
-[Spreaker](https://www.spreaker.com/user/nacionlumpen/nl10-programacion-funcional) o en
-[iTunes](https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2)
 
 Aprovechando el marco incomparable que nos ofrecía la [Lambda World][lambda]
 nos propusimos hablar sobre programación funcional con unos invitados

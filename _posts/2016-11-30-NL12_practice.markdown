@@ -3,11 +3,9 @@ layout: post
 title:  "NL12: práctica deliberada"
 date:   2016-11-30 12:00:00
 categories: podcast
+spreaker: https://www.spreaker.com/user/nacionlumpen/nl12-practica-deliberada
+itunes: https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2
 ---
-
-Escuchar en
-[Spreaker](https://www.spreaker.com/user/nacionlumpen/nl12-practica-deliberada) o en
-[iTunes](https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2)
 
 Alcanzar maestría no es simplemente practicar de cualquier forma durante 10k
 horas o cierto número de años. Nuestro objetivo en este capítulo es ver este

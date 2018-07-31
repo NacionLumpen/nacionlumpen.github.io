@@ -9,6 +9,18 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
+{% if page.listen-msg %}
+    <p>
+      {{ page.listen-msg | markdownify }}
+    </p>
+{% elsif page.spreaker or page.itunes %}
+    <p>
+      Escuchar
+      {% if page.spreaker %}en <a href="{{ page.spreaker }}">Spreaker</a>{% endif %}
+      {% if page.spreaker and page.itunes %}o{% endif %}
+      {% if page.itunes %}en <a href="{{ page.itunes }}">iTunes</a>{% endif %}.
+    </p>
+{% endif %}
     {{ content }}
   </div>
 
