@@ -5,6 +5,7 @@ date:   2016-03-13 20:23:00 +0100
 categories: podcast
 spreaker: http://www.spreaker.com/user/nacionlumpen/nl7-bitcoin-contado-a-los-informa-ticos
 itunes: https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2
+track-mp3: https://api.spreaker.com/download/episode/7995691/nl7_bitcoin_2.mp3
 ---
 
 Episodio 7 del podcast en el damos una introducción a los aspectos técnicos de

@@ -5,6 +5,7 @@ date:   2018-07-28 00:00:00
 categories: podcast
 spreaker: https://www.spreaker.com/user/nacionlumpen/nl18-tinfoil
 itunes: https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2
+track-mp3: https://api.spreaker.com/download/episode/15346691/nl18_tinfoil_exported.mp3
 ---
 
 En esta ocasión queremos poner sobre las ondas, una serie de cuestiones relacionadas

@@ -5,6 +5,7 @@ date:   2016-04-13 21:00:00 +0100
 categories: podcast
 spreaker: http://www.spreaker.com/user/nacionlumpen/nl8-asomandonos-al-desarrollo-movil
 itunes: https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2
+track-mp3: https://api.spreaker.com/download/episode/8252983/nl8.mp3
 ---
 
 Hoy nos asomamos al desarrolo móvil de la mano de estos monstruos:

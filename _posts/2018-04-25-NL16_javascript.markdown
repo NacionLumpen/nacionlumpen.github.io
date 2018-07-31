@@ -5,6 +5,7 @@ date:   2018-04-25 10:00:00
 categories: podcast
 spreaker: https://www.spreaker.com/user/8241695/nl16-javascript
 itunes: https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2
+track-mp3: https://api.spreaker.com/download/episode/14619358/nl16_javascript.mp3
 ---
 
 *I amar prestar aen (El Mundo ha cambiado)*

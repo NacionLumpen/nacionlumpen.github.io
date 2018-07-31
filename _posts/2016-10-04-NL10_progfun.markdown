@@ -5,6 +5,7 @@ date:   2016-10-03 00:00:00 +0100
 categories: podcast
 spreaker: https://www.spreaker.com/user/nacionlumpen/nl10-programacion-funcional
 itunes: https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2
+track-mp3: https://api.spreaker.com/download/episode/9557347/nl10_progfun.mp3
 ---
 
 Aprovechando el marco incomparable que nos ofrecía la [Lambda World][lambda]

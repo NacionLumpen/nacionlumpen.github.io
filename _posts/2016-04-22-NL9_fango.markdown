@@ -7,6 +7,9 @@ x-spreaker:
  - https://www.spreaker.com/user/nacionlumpen/nl9-saliendo-del-fango
  - https://www.spreaker.com/user/nacionlumpen/nl9-saliendo-del-fango-parte-2
 itunes: https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2
+track-mp3:
+ - https://api.spreaker.com/download/episode/8576185/nl9_saliendo_del_fango_parte1.mp3
+ - https://api.spreaker.com/download/episode/8576357/nl9_saliendo_del_fango_parte_2.mp3
 listen-msg: >
   Escuchar en
   Spreaker ([parte 1](https://www.spreaker.com/user/nacionlumpen/nl9-saliendo-del-fango), [parte 2](https://www.spreaker.com/user/nacionlumpen/nl9-saliendo-del-fango-parte-2)) o en

@@ -5,6 +5,7 @@ date:   2016-10-23 00:00:00
 categories: podcast
 spreaker: https://www.spreaker.com/user/nacionlumpen/nl11-las-edades-del-programador
 itunes: https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2
+track-mp3: https://api.spreaker.com/download/episode/9705773/nl11_edades_del_programador_final.mp3
 ---
 
 En esta ocasión buscamos dar una visión del mundo de la programación desde la

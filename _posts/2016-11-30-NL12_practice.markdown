@@ -5,6 +5,7 @@ date:   2016-11-30 12:00:00
 categories: podcast
 spreaker: https://www.spreaker.com/user/nacionlumpen/nl12-practica-deliberada
 itunes: https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2
+track-mp3: https://api.spreaker.com/download/episode/10008448/nl12_practica_deliberada.mp3
 ---
 
 Alcanzar maestría no es simplemente practicar de cualquier forma durante 10k
