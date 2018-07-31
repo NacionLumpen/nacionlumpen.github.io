@@ -1,0 +1,46 @@
+<div class="player">
+  <header class="player-header">
+{% assign title = 'Escúchalo' %}
+{% if page.path == 'index.html' %}{% assign title = 'Programa más reciente' %}{% endif %}
+    <h2>{{ title }}</h2>
+
+    <span class="player-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <h3>
+      <a class="player-title" href="{{ post.url | prepend: site.baseurl }}"
+      >{{ post.title }}</a>
+    </h3>
+  </header>
+
+  <section class="player-details">
+
+    <div class="player-logo"></div>
+
+{% if page.layout != 'post' %}
+    <h3>Notas al programa</h3>
+    <div class="player-notes">
+      {{ post.content }}
+    </div>
+{% else %}
+    <h3>Extracto</h3>
+    <div class="player-notes">
+      {{ post.excerpt }}
+
+      <p>Puedes encontrar el resto de las notas y enlaces a la derecha.</p>
+    </div>
+{% endif %}
+  </section>
+
+{% if post.track-mp3 %}
+  <section class="player-ui">
+{% for track in post.track-mp3 %}
+    <audio preload="metadata" controls>
+      <source
+        type="audio/mpeg"
+        src="{{ track }}"
+      />
+    </audio>
+{% endfor %}
+
+  </section>
+{% endif %}
+</div>
