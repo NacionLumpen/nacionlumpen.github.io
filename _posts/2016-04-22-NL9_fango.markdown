@@ -17,7 +17,9 @@ listen-msg: >
 ---
 
 Charlamos sobre el artículo de culto *Out of the Tar Pit*, de Peter Marks y
-Ben Moseley. Contamos con los siguientes contertulios:
+Ben Moseley.
+
+Contamos con los siguientes contertulios:
 
  - Daniel Martín, [@dmartincy](https://twitter.com/dmartincy)
  - Álvaro Castellanos, [@AlvaroCaste](https://twitter.com/AlvaroCaste)
