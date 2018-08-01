@@ -3,11 +3,10 @@ layout: post
 title:  "NL17: drones"
 date:   2018-06-24 00:00:00
 categories: podcast
+spreaker: https://www.spreaker.com/user/8241695/nl17-drones
+itunes: https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2
+track-mp3: https://api.spreaker.com/download/episode/15119252/nl17_drones_24_06_2018_12_29.mp3
 ---
-
-Escuchar en
-[Spreaker](https://www.spreaker.com/user/8241695/nl17-drones) o en
-[iTunes](https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2)
 
 Hoy vamos a hablar de drones. Pero no de cualquier forma porque contamos con
 un auténtico experto autodidacta en este apasionante hobby, [Jose Ignacio

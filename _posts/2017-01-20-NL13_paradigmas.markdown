@@ -3,11 +3,10 @@ layout: post
 title:  "NL13: paradigmas"
 date:   2017-01-20 12:00:00
 categories: podcast
+spreaker: https://www.spreaker.com/user/nacionlumpen/nl13-paradigmas
+itunes: https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2
+track-mp3: https://api.spreaker.com/download/episode/10349115/nl13_paradigmas.mp3
 ---
-
-Escuchar en
-[Spreaker](https://www.spreaker.com/user/nacionlumpen/nl13-paradigmas) o en
-[iTunes](https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2)
 
 En este capítulo hablamos sobre los paradigmas de la programación más comunes.
 A pesar de que siempre estemos hablando de programación orientada a objetos y

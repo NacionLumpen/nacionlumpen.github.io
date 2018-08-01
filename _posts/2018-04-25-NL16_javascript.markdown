@@ -3,21 +3,20 @@ layout: post
 title:  "NL16: Javascript moderno"
 date:   2018-04-25 10:00:00
 categories: podcast
+spreaker: https://www.spreaker.com/user/8241695/nl16-javascript
+itunes: https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2
+track-mp3: https://api.spreaker.com/download/episode/14619358/nl16_javascript.mp3
 ---
 
-Escuchar en
-[Spreaker](https://www.spreaker.com/user/8241695/nl16-javascript) o en
-[iTunes](https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2)
-
-*I amar prestar aen (El Mundo ha cambiado)*
-
-*han mathon ne nen (Lo siento en el transpilador)*
-
-*han mathon ne chae (Lo siento en los frameworks)*
-
-*a han noston ned gwilith. (Lo huelo en la web)*
-
-
+*I amar prestar aen (El Mundo ha cambiado)*\\
+\\
+*han mathon ne nen (Lo siento en el transpilador)*\\
+\\
+*han mathon ne chae (Lo siento en los frameworks)*\\
+\\
+*a han noston ned gwilith. (Lo huelo en la web)*\\
+\\
+\\
 *Mucho se perdió entonces y pocos viven ahora para recordarlo.*
 
 ¿Cómo hemos podido llegar desde aquel momento en el que abrimos en el notepad

@@ -8,12 +8,27 @@
     {% include header.html %}
 
     <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
 
-    {% include footer.html %}
+      {% if page.layout == 'post' %}
+        {% if page.categories contains 'podcast' %}
+          {% assign post = page %}
+          {% include player.html %}
+        {% endif %}
+      {% elsif page.path == 'index.html' %}
+        {% assign post = site.categories.podcast | where_exp: "post", "post.track-mp3" | first %}
+        {% include player.html %}
+      {% endif %}
+
+
+      <div class="content">
+        <div class="wrapper">
+          {{ content }}
+        </div>
+
+        {% include footer.html %}
+      </div>
+
+    </div>
 
   </body>
 

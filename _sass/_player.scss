@@ -1,0 +1,85 @@
+.player {
+  position: relative; // serve of parent for absolutely positioned elements
+  padding-top: $spacing-unit;
+  padding-bottom: 0;
+
+  display: flex;
+  flex-direction: column;
+
+  color: $grey-color-light;
+
+  background: center/cover no-repeat;
+  background-image:
+    radial-gradient(
+      circle at center 75%,
+      $brand-color,
+      rgba(0, 0, 0, 0.8),
+    );
+
+
+  a {
+    color: $brand-secondary-color;
+  }
+
+  .player-header, .player-details {
+  }
+
+  .player-header {
+    .player-title {
+      font-size: 25px;
+    }
+  }
+
+  .player-details {
+    flex-grow: 1;
+    overflow: auto;
+
+    .player-logo {
+      width: 20em;
+      max-width: 90%;
+      margin: 0 auto $spacing-unit / 2;
+
+      background: center / cover no-repeat $brand-color url('../img/background.png');
+
+      @include media-query($on-laptop) {
+        width: 15em;
+      }
+
+      @include media-query($on-palm) {
+        width: 10em;
+      }
+    }
+
+    .player-logo:after {
+      content: "";
+      display: block;
+      padding-bottom: 100%; // dynamic square hack: padding is always calculated from width value
+    }
+
+    .player-notes {
+      &-title {
+        @include media-query($on-palm * 2) {
+          display: none;
+        }
+      }
+
+      :not(.player-notes-excerpt) {
+        @include media-query($on-palm * 2) {
+          display: none;
+        }
+      }
+    }
+  }
+
+  .player-ui {
+    audio {
+      display: block;
+      width: 100%;
+
+      &:not(:first-child) {
+        border-top: 1px solid $brand-secondary-color;
+      }
+    }
+  }
+
+}

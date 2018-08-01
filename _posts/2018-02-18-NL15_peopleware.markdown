@@ -3,11 +3,10 @@ layout: post
 title:  "NL15: Peopleware"
 date:   2018-02-18 10:00:00
 categories: podcast
+spreaker: https://www.spreaker.com/user/nacionlumpen/nl15-peopleware
+itunes: https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2
+track-mp3: https://api.spreaker.com/download/episode/14081379/nl15_peopleware.mp3
 ---
-
-Escuchar en
-[Spreaker](https://www.spreaker.com/user/nacionlumpen/nl15-peopleware) o en
-[iTunes](https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2)
 
 Como prometimos durante el [Advent of Code][AoC] seguimos vivos y hemos vuelto
 con un nuevo capítulo del podcast. En esta ocasión volvemos a pendular al lado

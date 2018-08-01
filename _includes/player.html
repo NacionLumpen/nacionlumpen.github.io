@@ -1,0 +1,50 @@
+{% if page.path == 'index.html' %}
+  {% assign pane_title = 'Programa más reciente' %}
+  {% assign notes_title = 'Notas al programa' %}
+{% endif %}
+<div class="player">
+  <header class="player-header">
+    <div class="wrapper">
+      <h2>{{ pane_title | default: 'Escúchalo' }}</h2>
+
+      <span class="player-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <h3>
+        <a class="player-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h3>
+    </div>
+  </header>
+
+  <section class="player-details">
+    <div class="wrapper">
+
+      <div class="player-logo"></div>
+
+      <h3 class="player-notes-title">
+        {{ notes_title | default: 'Extracto' }}
+      </h3>
+
+      <div class="player-notes">
+        <p class="player-notes-excerpt">
+          {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+        </p>
+{% if page.layout != 'post' %}
+        {{ post.content | remove: post.excerpt }}
+{% endif %}
+      </div>
+    </div>
+  </section>
+
+{% if post.track-mp3 %}
+  <section class="player-ui">
+{% for track in post.track-mp3 %}
+    <audio preload="metadata" controls>
+      <source
+        type="audio/mpeg"
+        src="{{ track }}"
+      />
+    </audio>
+{% endfor %}
+
+  </section>
+{% endif %}
+</div>
