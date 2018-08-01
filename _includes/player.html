@@ -1,14 +1,15 @@
+{% if page.path == 'index.html' %}
+  {% assign pane_title = 'Programa más reciente' %}
+  {% assign notes_title = 'Notas al programa' %}
+{% endif %}
 <div class="player">
   <header class="player-header">
-{% assign title = 'Escúchalo' %}
-{% if page.path == 'index.html' %}{% assign title = 'Programa más reciente' %}{% endif %}
     <div class="wrapper">
-      <h2>{{ title }}</h2>
+      <h2>{{ pane_title | default: 'Escúchalo' }}</h2>
 
       <span class="player-date">{{ post.date | date: "%b %-d, %Y" }}</span>
       <h3>
-        <a class="player-title" href="{{ post.url | prepend: site.baseurl }}"
-        >{{ post.title }}</a>
+        <a class="player-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h3>
     </div>
   </header>
@@ -18,19 +19,18 @@
 
       <div class="player-logo"></div>
 
-{% if page.layout != 'post' %}
-      <h3>Notas al programa</h3>
-      <div class="player-notes">
-        {{ post.content }}
-      </div>
-{% else %}
-      <h3>Extracto</h3>
-      <div class="player-notes">
-        {{ post.excerpt }}
+      <h3 class="player-notes-title">
+        {{ notes_title | default: 'Extracto' }}
+      </h3>
 
-        <p>Puedes encontrar el resto de las notas y enlaces a la derecha.</p>
-      </div>
+      <div class="player-notes">
+        <p class="player-notes-excerpt">
+          {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+        </p>
+{% if page.layout != 'post' %}
+        {{ post.content | remove: post.excerpt }}
 {% endif %}
+      </div>
     </div>
   </section>
 
