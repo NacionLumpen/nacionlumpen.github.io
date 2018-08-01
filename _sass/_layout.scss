@@ -7,6 +7,10 @@ body {
 
   flex-direction: column;
 
+  @include media-query($on-palm * 2) {
+    height: unset;
+  }
+
   .site-header {
     flex-shrink: 0;
     flex-grow: 0;
@@ -196,6 +200,10 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: center;
+
+    @include media-query($on-palm * 2) {
+      flex-direction: column;
+    }
 
     > * {
       width: 100%;

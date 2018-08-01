@@ -40,6 +40,14 @@
       margin: 0 auto $spacing-unit / 2;
 
       background: center / cover no-repeat $brand-color url('../img/background.png');
+
+      @include media-query($on-laptop) {
+        width: 15em;
+      }
+
+      @include media-query($on-palm) {
+        width: 10em;
+      }
     }
 
     .player-logo:after {
@@ -49,6 +57,16 @@
     }
 
     .player-notes {
+      &-title {
+        @include media-query($on-palm * 2) {
+          display: none;
+        }
+      }
+
+      :not(.player-notes-excerpt) {
+        @include media-query($on-palm * 2) {
+          display: none;
+        }
       }
     }
   }
