@@ -32,7 +32,10 @@ Con ellos, vuestros locutores habituales:
 
 La dedicatoria del episodio es doble:
 
- - A Vannevar Bush, por introducir la idea del Memex en 1945 en su artículo [As We Might Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
+ - A Vannevar Bush, por introducir la idea del Memex en 1945 en su artículo [As We Might Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/).
+
+   <img src="/img/memex.jpg" style="width: 50%"/>
+
  - A [Stephen Robertson](http://www.staff.city.ac.uk/~sb317/), uno de los
    inventores del mágico BM25
 
