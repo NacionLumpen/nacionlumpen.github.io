@@ -36,5 +36,22 @@ La dedicatoria del episodio es doble:
  - A [Stephen Robertson](http://www.staff.city.ac.uk/~sb317/), uno de los
    inventores del mágico BM25
 
-<!-- Enlaces/referencias: -->
+Enlaces/referencias:
 
+ - El [libro](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+   más clásico. Eso sí, la mayoría de su contenido se sigue utilizando en 2018.
+ - [Survey](http://www.staff.city.ac.uk/~sb317/papers/foundations_bm25_review.pdf) que detalla BM25
+ - [Curso en Coursera](https://www.coursera.org/learn/text-retrieval) sobre
+     text retrieval
+ - Principales productos tecnológicos:
+    - Apache Lucene https://lucene.apache.org/
+    - Apache Solr https://lucene.apache.org/solr/
+    - Elasticsearch https://www.elastic.co/
+    - Vespa http://vespa.ai/
+ - Las palabras se suelen distribuir siguiendo [power laws](https://en.wikipedia.org/wiki/Power_law)
+ - [Soundex](https://en.wikipedia.org/wiki/Soundex) es una forma de considerar
+   la fonética de las palabras. Algo similar está detrás de la magia de buscar
+   “Estifen jokins” en Google y [encontrar lo que queremos](https://www.google.com/search?hl=es&q=estifen+jokins&oq=estifen+jokins)
+ - Ejemplo de uso de Lucene para sugerir mnemónicos: https://github.com/sortega/mms
+ - No dejen de leer a Leon Bottou para aprender sobre "counterfactual
+     learning"
