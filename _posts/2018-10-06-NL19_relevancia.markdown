@@ -56,5 +56,10 @@ Enlaces/referencias:
    la fonética de las palabras. Algo similar está detrás de la magia de buscar
    “Estifen jokins” en Google y [encontrar lo que queremos](https://www.google.com/search?hl=es&q=estifen+jokins&oq=estifen+jokins)
  - Ejemplo de uso de Lucene para sugerir mnemónicos: https://github.com/sortega/mms
+ - La métrica favorita de Julien: MRR.
+     Expected Reciprocal Rank for Graded Relevance, O. Chapelle et al. CIKM 2009
+     http://olivier.chapelle.cc/pub/err.pdf
  - No dejen de leer a Leon Bottou para aprender sobre "counterfactual
-     learning"
+     learning". Counterfactual Reasoning and Learning Systems: The Example of
+     Computational Advertising,  Leon Bottou et al.  JMLR 2013
+     http://jmlr.org/papers/v14/bottou13a.html
