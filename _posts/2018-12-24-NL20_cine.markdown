@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "NL20: el cine y la informática"
+date:   2018-12-24 00:00:00
+categories: podcast
+spreaker: https://www.spreaker.com/user/nacionlumpen/--------------------------
+itunes: https://itunes.apple.com/es/podcast/nacion-lumpen/---------------------
+track-mp3: https://api.spreaker.com/download/episode/--------------------------
+---
+
+En esta ocasión tenemos un episodio especial. Un episodio diferente pero enfocado
+a lo que nos gusta: la informática. Hablaremos de cine. De esas películas y
+series en las que de alguna manera u otra, se trata lo que más nos gusta.  
+
+Y para ello y aprovechando el puente de la Constitución, nos hemos reunido en el
+App Informática de Manises con los siguientes invitados:
+
+ - **Luis Miguel Muñoz**, informático aunque sus credenciales son 276 días, 21 
+     horas y 37 minutos de **solo** de series vistas.
+
+ - **Alberto Galindo**, abogado de profesión, aunque un apasionado de la
+     informática.
+
+Con ellos, vuestros locutores habituales:
+
+ - [Álvaro Castellanos](https://github.com/alvarocaste), ese señor que nunca
+    sabe nada.
+ - [Sebastián Ortega](https://twitter.com/_sortega), vuestro pesado de
+   siempre.
+
+Dedicatoria del episodio al ya, por suerte, conocido Alan Turing.
+
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://peertube.fr/videos/embed/217eefeb-883d-45be-b7fc-a788ad8507d3" frameborder="0" allowfullscreen></iframe>
+
+Enlaces/referencias:
+
+ - [Operación Swordfish](https://www.filmaffinity.com/es/film857439.html)
+ - [Mr Robot](https://www.filmaffinity.com/es/film857439.html)
+ - [Independence Day](https://www.filmaffinity.com/es/film542328.html)
+ - [BPS: Battle Programmer SHIRASE](https://www.filmaffinity.com/es/film663072.html)
+ - [Hackers](https://www.filmaffinity.com/es/film347629.html)
+ - [Blade Runner](https://www.filmaffinity.com/es/film358476.html)
+ - [La casa de papel](https://www.filmaffinity.com/es/film879405.html)
+ - [Matrix](https://www.filmaffinity.com/es/film932476.html)
+ - [Minority Report](https://www.filmaffinity.com/es/film660421.html)
+ - [Black Mirror](https://www.filmaffinity.com/es/film837017.html)
+ - [Searching](https://www.filmaffinity.com/es/film492248.html)
+ - [The IT Crowd (Los informáticos)](https://www.filmaffinity.com/es/film914339.html)
+ - [Piratas de Silicon Valley](https://www.filmaffinity.com/es/film399662.html)
+ - [Halt and catch fire](https://www.filmaffinity.com/es/film449215.html)
+ - [Juegos de Guerra](https://www.filmaffinity.com/es/film553168.html)
+ - [The imitation game (Descrifrando Enigma)](https://www.filmaffinity.com/es/film617730.html)
+ - [Jurassic Park](https://www.filmaffinity.com/es/film152490.html)
+
