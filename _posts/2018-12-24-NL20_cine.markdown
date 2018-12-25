@@ -21,6 +21,11 @@ App Informática de Manises con los siguientes invitados:
  - **Alberto Galindo**, abogado de profesión, aunque un apasionado de la
      informática.
 
+Como público tenemos:
+
+ - **Iñaki Docio**, que pasaba por allí, fan de Google y la fotografía.
+ - **Ines Ondo**, nuestra voz en el opening.
+
 Con ellos, vuestros locutores habituales:
 
  - [Álvaro Castellanos](https://github.com/alvarocaste), ese señor que nunca
