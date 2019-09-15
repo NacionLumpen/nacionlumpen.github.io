@@ -13,12 +13,13 @@ layout: default
     <p>
       {{ page.listen-msg | markdownify }}
     </p>
-{% elsif page.spreaker or page.itunes %}
+{% elsif page.spreaker or page.itunes or page.spotify %}
     <p>
       Escuchar
-      {% if page.spreaker %}en <a href="{{ page.spreaker }}">Spreaker</a>{% endif %}
-      {% if page.spreaker and page.itunes %}o{% endif %}
-      {% if page.itunes %}en <a href="{{ page.itunes }}">iTunes</a>{% endif %}.
+      {% if page.spreaker %}en <a href="{{ page.spreaker }}">Spreaker</a>{% endif %}{% if page.spreaker and page.itunes %} 
+      o {% endif %}{% if page.itunes %}en <a href="{{ page.itunes }}">iTunes</a>{% endif %}{% if (page.spreaker and page.itunes) and page.spotify %} 
+      o {% endif %}{% if page.spotify %} 
+      en <a href="{{ page.spotify }}">Spotify</a>{% endif %}.
     </p>
 {% endif %}
     {{ content }}
