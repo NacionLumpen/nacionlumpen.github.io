@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "NL21: A/B testing"
-date:   2019-01-16 00:00:00
+date:   2019-09-16 00:00:00
 categories: podcast
 spreaker: https://www.spreaker.com/user/8241695/nl21-ab-testing
 itunes: https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2
