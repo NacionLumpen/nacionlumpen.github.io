@@ -3,7 +3,7 @@ layout: post
 title:  "NL21: A/B testing"
 date:   2019-01-16 00:00:00
 categories: podcast
-spreaker: https://www.spreaker.com/user/8241695/nl21
+spreaker: https://www.spreaker.com/user/8241695/nl21-ab-testing
 itunes: https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2
 spotify: spotify:show:57zC6uICaKizILV84JAtA1
 track-mp3: https://api.spreaker.com/v2/episodes/16560206/download.mp3
@@ -52,5 +52,18 @@ comenzó a abrir paso a la teoría estadística para analizar experimentos.
 
 Enlaces/referencias:
 
- - [TODO](https://)
-
+- Metodología:
+    - [Statistical Inference](https://www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126/) (libro)
+    - [Terminología de diseño de experimentos](http://users.stat.umn.edu/~gary/book/fcdae.pdf)
+    - [A/B testing at scale workshop](http://bit.ly/2017ABTestingTutorial) (Kohavi)
+   - Antiguo sitio de la [Plataforma de Experimentación de Microsoft](https://exp-platform.com/)
+- Videos:
+    - Analytics and experimentation tech talk: [AirBnB](https://www.youtube.com/watch?v=4YKbASrSdWc)
+    - [A/B Testing at Pinterest](https://www.youtube.com/watch?v=MZTHghbPjbE)
+    - [Netflix experimentation platform](https://www.youtube.com/watch?v=im-TIAtDt5w)
+    - Presentación bastante rompedora con el tono habitual: [Experiments: The good the bad and the ugly](https://www.youtube.com/watch?v=wq3_UYoM7Oc)
+- Software:
+    - [Facebook PlanOut](https://facebook.github.io/planout/)
+    - [Wasabi](https://github.com/intuit/wasabi)
+    - [Optimizely en Github](https://github.com/optimizely/)
+    - [SDK de Javascript como ejemplo](https://github.com/optimizely/javascript-sdk)
