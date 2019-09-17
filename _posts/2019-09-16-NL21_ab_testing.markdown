@@ -6,7 +6,7 @@ categories: podcast
 spreaker: https://www.spreaker.com/user/8241695/nl21-ab-testing
 itunes: https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2
 spotify: spotify:show:57zC6uICaKizILV84JAtA1
-track-mp3: https://api.spreaker.com/v2/episodes/16560206/download.mp3
+track-mp3: https://api.spreaker.com/v2/episodes/19119428/download.mp3
 ---
 
 Si correlación no implica causalidad y si todos tenemos opiniones y ninguna 
